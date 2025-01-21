@@ -30,6 +30,20 @@ Alla datorer som erbjuder eller hämtar HTML dokument är uppkopplade på 'webbe
 
 ---
 
+# Live Server
+
+Live Server är ett verktyg som hjälper dig att utveckla webbsidor. När du gör en ändring i HTML, CSS eller JavaScript laddas webbsidan om automatiskt.
+
+Det finns som VSCode extension och det finns även självstående verktyg.
+
+Om man använder Live Share kan live servern öppnas och delas med andra.
+
+# Webbläsare och inspektering
+
+Inspekera vilken webbsida som helst direkt i webbläsaren — ofta genom att högerklicka och välja "Inspect" eller liknande.
+
+---
+
 # Vad är HTML?
 
 - Står för 'Hypertext Markup Language'
@@ -207,20 +221,6 @@ Alla HTML filer består av:
 
 ---
 
-# Live Server
-
-Live Server är ett verktyg som hjälper dig att utveckla webbsidor. När du gör en ändring i HTML, CSS eller JavaScript laddas webbsidan om automatiskt.
-
-Det finns som VSCode extension och det finns även självstående verktyg.
-
-Om man använder Live Share kan live servern öppnas och delas med andra.
-
-# Webbläsare och inspektering
-
-Inspekera vilken webbsida som helst direkt i webbläsaren — ofta genom att högerklicka och välja "Inspect" eller liknande.
-
----
-
 # Vad är CSS?
 
 - Står för 'Cascading Style Sheets'
@@ -247,7 +247,7 @@ h1 {
   margin-left: 50px;
 }
 
-.pimary-button {
+.primary-button {
   border: 5px solid green;
   border-radius: 4px;
 }
